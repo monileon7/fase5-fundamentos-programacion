@@ -4,9 +4,9 @@ Proyecto realizado para la Fase 5 del curso Fundamentos de Programación - UNAD.
 
 ## Descripción
 
-Este proyecto consiste en un sistema básico de inventario desarrollado en Python, orientado al control de artículos de una sala de sistemas.
+Este proyecto consiste en un sistema básico de inventario desarrollado en Python, orientado al control de bienes de una sala de sistemas.
 
-El programa permite consultar artículos mediante un código identificador y verificar si requieren reabastecimiento según el stock mínimo establecido.
+Con el programa se puede consultar artículos mediante un código identificador y verificar si requieren reabastecimiento según el stock mínimo establecido.
 
 ## Funcionalidades
 
